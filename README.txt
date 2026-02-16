@@ -8,9 +8,12 @@ Data Aggregation: Automates the extraction and cleaning of inconsistent raw data
 Visualization: Generates professional comparison bar charts to visualize the "Heads Probability" on different surfaces (`visual_canvas.py`).
 Simulation: Includes a Pygame script to visually simulate the physics of a coin toss (`toss.py`).
 
-1. Group Heads & Tail Via Coin Classification
+1. Group7 Heads & Tail Via Coin Classification
 
-2. Group Heads & Tails Combined
+![Chart Description](Visual_Canvass_Chart.png)
+![Chart Description](Visual_Canvass_Chart.png)
+
+2. Group7 Heads & Tails Combined
 
 3. All Group Heads & Tails Via Coin Classification
 
@@ -24,3 +27,4 @@ Simulation: Includes a Pygame script to visually simulate the physics of a coin 
 The analysis reveals that while modern coins (1B, 5B) are consistent, older coins (1A) show significant bias depending on the surface:
 Table: 64% Heads bias.
 Tiles: 45% bias (favoring Tails).
+
