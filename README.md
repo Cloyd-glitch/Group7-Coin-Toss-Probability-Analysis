@@ -54,12 +54,13 @@ An experimental analysis of coin fairness involving over 3,000 combined tosses. 
 
 ![image alt](https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/0185e83bc1e76c74ce5c1a79a45d51275fe69ebc/Graphs/6(totalcanvas).png)
 
-![image alt]()
+![image alt](https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/e95f687a7f1e5f124a588efc474b356e00b1634c/6Fairness_Graph.png)
 
  Results
 The analysis reveals that while modern coins (1B, 5B) are consistent, older coins (1A) show significant bias depending on the surface:
 Table: 64% Heads bias.
 Tiles: 45% bias (favoring Tails).
+
 
 
 
