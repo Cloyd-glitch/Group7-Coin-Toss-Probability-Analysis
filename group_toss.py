@@ -16,7 +16,7 @@ def generate_graphs():
         },
         # The Combined Data File (Combined 5A & 10A)
         {
-            "file_name": "group7combineddata.xlsx",
+            "file_name": "raw data and combined data.xlsx",
             "start_row": 5, # Data starts at row 6 (index 5)
             "y_limit": 200,
             "coins": {
@@ -98,4 +98,5 @@ def generate_graphs():
             plt.show() 
 
 # Run the function
+
 generate_graphs()
