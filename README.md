@@ -56,34 +56,5 @@ An experimental analysis of coin fairness involving over 3,000 combined tosses. 
 
 ![image alt](https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/e95f687a7f1e5f124a588efc474b356e00b1634c/6Fairness_Graph.png)
 
- Results
-The analysis reveals that while modern coins (1B, 5B) are consistent, older coins (1A) show significant bias depending on the surface:
-Table: 64% Heads bias.
-Tiles: 45% bias (favoring Tails).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Overall Results
+Based on the analysis of nearly 3,000 coin flips across 15 experimental groups, the project reached a definitive conclusion regarding the Law of Large Numbers and surface bias. The Global Fairness Analysis revealed that when all variables were combined, the experiment yielded 1,497 Heads (50.49%) and 1,468 Tails (49.51%), demonstrating a near-perfect validation of theoretical probability. However, the breakdown by Surface Type exposed a significant physical anomaly: while modern coins (like 1B and 5B) remained fair regardless of the environment, the older 1A coin exhibited a massive bias on the wooden table (64% Heads) compared to the hard tiles (45% Heads). This suggests that while probability holds true over large datasets, physical factors like surface texture and coin design can introduce significant local deviations.
