@@ -9,13 +9,14 @@ An experimental analysis of coin fairness involving over 3,000 combined tosses. 
 😊Simulation: Includes a Pygame script to visually simulate the physics of a coin toss (`toss.py`).
 
 1. Group7 Heads & Tail Via Coin Classification
-https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/main/2bcc1779b853f613adab9df06fd9c0935e836624/Group7_5A_Race_Graph.png
+![image alt]()
+![image alt](https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/main/2bcc1779b853f613adab9df06fd9c0935e836624/Group7_5A_Race_Graph.png)
 
-https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/main/2bcc1779b853f613adab9df06fd9c0935e836624/Group7_10A_Race_Graph.png
+![image alt](https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/main/2bcc1779b853f613adab9df06fd9c0935e836624/Group7_10A_Race_Graph.png)
 
 2. Group7 Heads & Tails Combined
 
-https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/main/ba0cbab38f30bac23e0b6cd6d0a83ee4793a3139/Group7_Combined_Graph.png
+![image alt](https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/main/ba0cbab38f30bac23e0b6cd6d0a83ee4793a3139/Group7_Combined_Graph.png)
 
 3. All Group Heads & Tails Via Coin Classification
 
@@ -29,6 +30,7 @@ https://github.com/Cloyd-glitch/Group7-Coin-Toss-Probability-Analysis/blob/main/
 The analysis reveals that while modern coins (1B, 5B) are consistent, older coins (1A) show significant bias depending on the surface:
 Table: 64% Heads bias.
 Tiles: 45% bias (favoring Tails).
+
 
 
 
