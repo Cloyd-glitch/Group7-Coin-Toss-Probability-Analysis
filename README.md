@@ -1,12 +1,14 @@
  Coin Bias Analysis Project 🪙
 
-  😶‍🌫️Project Overview
+Project Overview
+  
 An experimental analysis of coin fairness involving over 3,000 combined tosses. This project automates the processing of raw data from 15 different groups to determine if surface texture (Wooden Table vs. Hard Tiles) influences the probability of landing Heads or Tails.
 
-  👌Key Features
-😁Data Aggregation: Automates the extraction and cleaning of inconsistent raw data from multiple Excel sheets.
-❤️Visualization: Generates professional comparison bar charts to visualize the "Heads Probability" on different surfaces.
-😊Simulation: Includes a Pygame script to visually simulate the physics of a coin toss.
+Key Features
+
+Data Aggregation: Automates the extraction and cleaning of inconsistent raw data from multiple Excel sheets.
+Visualization: Generates professional comparison bar charts to visualize the "Heads Probability" on different surfaces.
+Simulation: Includes a Pygame script to visually simulate the physics of a coin toss.
 
 1. Group7 Heads & Tail Via Coin Classification
 
@@ -58,3 +60,4 @@ An experimental analysis of coin fairness involving over 3,000 combined tosses. 
 
 Overall Results
 Based on the analysis of nearly 3,000 coin flips across 15 experimental groups, the project reached a definitive conclusion regarding the Law of Large Numbers and surface bias. The Global Fairness Analysis revealed that when all variables were combined, the experiment yielded 1,497 Heads (50.49%) and 1,468 Tails (49.51%), demonstrating a near-perfect validation of theoretical probability. However, the breakdown by Surface Type exposed a significant physical anomaly: while modern coins (like 1B and 5B) remained fair regardless of the environment, the older 1A coin exhibited a massive bias on the wooden table (64% Heads) compared to the hard tiles (45% Heads). This suggests that while probability holds true over large datasets, physical factors like surface texture and coin design can introduce significant local deviations.
+
